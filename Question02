@@ -1,0 +1,5 @@
+I will create a new property PEP enum TypeRisk on class RiskEnum.cs called Pep and include a new  case from PEP on ProcessRisk.cs.
+I include a new property in class ITrade.cs  and Trade.cs this new property is IsPoliticalExposed type of bool. 
+I will create a new class PEPRisk.cs with interface IRisk, where i include a function will validade with IsPoliticalExposed is equal true. If cames true i will return 
+a type equal PEP.
+I include  new item in the list listRisks from type PEPRisk on class Category.cs. 
